@@ -58,7 +58,7 @@ That said, I later figured out a software trick that would make this feasible.
 
 $$ds^{2} = \left(1 - \frac{1}{r}\right)dt^{2} - \left(1 - \frac{1}{r}\right)^{-1}dr^{2} - r^{2}\,d\theta^{2} - r^{2}\sin^{2}\theta\,d\phi^{2}$$
 
-(In my original notes I guessed ... [your parenthetical stays as is])
+(In my original notes I guessed that $ds^{2}$ is the same as the proper time $\tau$. I was correct, but only for massive particles ($ds^{2} = d\tau^{2}$); for light, $ds^{2} = 0$. I also guessed that the last two terms, $-r^{2}\,d\theta^{2} - r^{2}\sin^{2}\theta\,d\phi^{2}$, were the "3D stuff". That was also correct: they are the angular part of the metric, which is the sphere around the hole.)
 
 From this metric you can derive the orbit equation for a light ray, with $u = 1/r$:
 
