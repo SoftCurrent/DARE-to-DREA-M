@@ -36,6 +36,9 @@ Similarly, if you set up an OLED screen in a dark room and move it so that it al
 
 **Issue:** You cannot avoid stereopsis, the fact that humans see two different angles of an object, one from each eye. That said, from about 2-3 m away this becomes unnoticeable.
 
+<img width="1173" height="757" alt="prelim-designs-landscape" src="https://github.com/user-attachments/assets/0fa2b1f3-f936-4ff3-b886-2d17abedc421" />
+Some drawings of trying to map the wiring, measure the wiring harness and fit all the electronics into the build.
+
 ## 2. The Code
 
 ### 2.1 The physics
