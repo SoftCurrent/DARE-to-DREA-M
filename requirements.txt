@@ -1,0 +1,8 @@
+numpy
+opencv-python
+pyserial
+matplotlib   # only for the prototypes/ scripts
+
+# Only needed on the actual Raspberry Pi (NoIR camera capture).
+# Install via apt on Pi OS (python3-picamera2) rather than pip where possible.
+# picamera2
