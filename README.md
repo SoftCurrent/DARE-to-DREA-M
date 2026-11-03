@@ -4,11 +4,25 @@ A simulated Schwarzschild ray-marcher that renders a gravitationally lensed blac
 
 **Status:** Hardware validated and working; simulation built.
 
+<img align="left" width="70%" alt="Collage of the D:REAM black hole display build, labelled A to G." src="https://github.com/user-attachments/assets/7b2edc41-c03c-41fe-a6dd-7016c36ed379">
+
+**A** hologram running<br>
+**B** simulation output<br>
+**C** servo mount<br>
+**D** wired Pi stack<br>
+**E** bare Pi stack<br>
+**F** fitting the stack behind the screen<br>
+**G** assembled mount
+
+<br clear="left">
+
+---
+
 - **Stage 1:** Test different ideas, validate the current one and learn the required physics ✓
 - **Stage 2:** Design and build the hardware, decide on a plausible software architecture for an old processor, and test ✓
 - **Stage 3:** Improve tracking and demo the entire build
 
-After reading *Black Holes* by Brian Cox, I wanted to know what it would feel like to see a black hole in 3D in my room, with my own eyes. I was not completely satisfied with games like Space Engine or VR (although both are amazing). I wanted to see something 3D, physically accurate and close up.
+After reading *Black Holes* by Brian Cox, I wanted to know what it would feel like to see a black hole in 3D in my room, with my own eyes. I was not completely satisfied with games like Space Engine or VR (although both are amazing). I wanted to see something 3D, physically accurate and close up. This resulted in having to design a completely new type of 3D visualisation hardware. I called it DARE to D:REAM because Brian Cox was part of a band called Dare, then moved to a band called D:REAM before pursuing physics.
 
 The initial idea came from messing with a wine glass on my laptop, as seen below:
 
